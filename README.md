@@ -1,2 +1,2 @@
 # GuomeiSwift
-Swift写的放国美电商项目
+Swift写的fang国美电商项目
